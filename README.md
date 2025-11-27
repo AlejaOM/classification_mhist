@@ -6,7 +6,7 @@
 
 ## Autores
 
-[Alejandra Ortiz Medina]
+Alejandra Ortiz Medina
 
 ---
 
@@ -21,7 +21,7 @@ Clasificar imágenes de muestras histopatológicas para determinar si son pólip
 Este proyecto utiliza el dataset **MHIST** (Minimalist Histopathology Image Analysis Dataset).
 
 * **Descripción:** Imágenes histopatológicas de pólipos de colon clasificadas como Hiperplásicos (HP) o Adenomas Serrados Sésiles (SSA).
-* **Fuente y Descarga:** [https://bmirds.github.io/MHIST/]
+* **Fuente y Descarga:** https://bmirds.github.io/MHIST/
 
 ---
 
@@ -36,5 +36,5 @@ Este proyecto utiliza el dataset **MHIST** (Minimalist Histopathology Image Anal
 
 ## Enlaces
 
-**Repositorio GitHub:** [https://github.com/AlejaOM/classification_mhist]
-**Notebook Colab:** [https://colab.research.google.com/drive/11k0DLI8WfnEN_3GgIipBkse5sGnvYxs8?usp=sharing]
+* **Repositorio GitHub:** https://github.com/AlejaOM/classification_mhist
+* **Notebook Colab:** https://colab.research.google.com/drive/11k0DLI8WfnEN_3GgIipBkse5sGnvYxs8?usp=sharing
