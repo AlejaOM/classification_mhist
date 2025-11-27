@@ -1,4 +1,4 @@
-# Clasificación de Pólipos Colorrectales en Imágenes Histológicas con Redes Neuronales Convolucionales y Transfer Learning
+## Clasificación de Pólipos Colorrectales en Imágenes Histológicas con Redes Neuronales Convolucionales y Transfer Learning
 
 ![(800x300)](assets/banner_mhist.png)
 
